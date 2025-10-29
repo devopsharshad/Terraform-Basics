@@ -66,7 +66,6 @@ It serves as a **learning and reference project** for anyone exploring Terraform
 
 ## 🪶 Notes
 
-- State files (`*.tfstate`, `.terraform/`) and sensitive variables are **ignored** via `.gitignore`.
 - Each directory can be used **independently** — navigate into a specific folder and run `terraform init && terraform apply` to test.
 - This repo is intended for **educational and demo purposes** — review before using in production.
 
@@ -89,5 +88,5 @@ It serves as a **learning and reference project** for anyone exploring Terraform
 
 ## 🧑‍💻 Author
 
-**Harshad (devopsharshad)**  
+**Harshad Gadekar**  
 _Cloud & DevOps Engineer | AWS | Terraform | CI/CD_
